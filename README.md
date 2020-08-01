@@ -1,7 +1,7 @@
 
 ### Seja bem vindo ao meu github! 😁👋
 
-Meu nome é Douglas Modesto, cursei graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela FATEC, Pos Graduado em Inteligência Artificial e Machine Learning pela FIAP e cursando Arquitetura de Software Distribuido pela PUC Minas.
+Meu nome é Douglas Modesto, cursei graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela FATEC, Pos Graduado em Inteligência Artificial e Machine Learning pela FIAP e cursando outra pós-graduação em Arquitetura de Software Distribuido pela PUC Minas.
 
 Sou amante de tecnologia, possuo domínio na área de backend com a linguagem C# e NodeJs e frontend nas linguagens Angular, React e Vue Js.
 
