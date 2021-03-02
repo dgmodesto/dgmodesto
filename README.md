@@ -11,6 +11,19 @@ My goals are to learn the max I can and apply my knowledge where I can
 
 In my free time, I like to listen to music (🎵), read books  (📚), watch movies  (📺), and I love to craft beers (🍺)
 
+ 
+ 
+### Github Stats 
+<center>
+  <table >
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmodesto&hide=html&layout=compact&theme=highcontrast" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=dgmodesto&show_icons=true&theme=highcontrast" /></td>
+    </tr>  
+  </table>
+</center>
+
+
 
 Would you like to find me?
 
