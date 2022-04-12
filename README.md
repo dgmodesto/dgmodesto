@@ -1,15 +1,15 @@
 
-### Hi there! 😁👋
+### Olá Galera! 😁👋
 
-My name is Douglas Modesto, I coursed the System Analysis and Development Graduation at FATEC, I have a post-graduation in Artificial Intelligence and Machine Learning at FIAP and I'm coursing Distributed Software Arquitechture post-graduation at PUC Minas.
+Um pouco sobre mim.
 
-I love about technology, I have the domain in backend with C# and frontend with Angular.
+Cursei graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela FATEC, sou Pos Graduado em Inteligência Artificial e Machine Learning pela FIAP e Pos Graduado em Arquitetura de Software Distribuído pela PUC Minas.
 
-Currently, I'm a tech leader and scrum master, and I work at Guide Investimentos. I have experience in Software Science with an emphasis in the development system and business agility with a focus on client
+Amante de tecnologia, possuí domínio na área de backend com a linguagem C# e frontend na linguagem Angular.
 
-My goals are to learn the max I can and apply my knowledge where I can
+Atualmente sou Arquiteto de Software e complementa o quadro de colaboradores da empresa Guide Investimentos. Tenho experiência na área de Ciência da Computação, com ênfase em engenharia de software e agilidade de negócio com foco no cliente. Auxilio as squads na definição de padrões e design de projetos.
 
-In my free time, I like to listen to music (🎵), read books  (📚), watch movies  (📺), and I love to craft beers (🍺)
+No tempo livre gosto de estudar, ouvir musicas(🎵), dançar, ler livros(📚), assistir filmes e séries(📺), e também é apaixonado por cervejas artesanais(🍺).
 
  
  
