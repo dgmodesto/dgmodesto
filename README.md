@@ -19,6 +19,7 @@ No tempo livre gosto de estudar, ouvir musicas(🎵), dançar, ler livros(📚),
   <table >
     <tr>
       <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgmodesto&theme=radical"/>
+      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgmodesto&theme=radical&hide_border=true"/>
     </tr>  
    <tr>
       <td>
@@ -27,12 +28,7 @@ No tempo livre gosto de estudar, ouvir musicas(🎵), dançar, ler livros(📚),
       </td>
    </tr>
    
-    <tr>
-      <td>
-       <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgmodesto&theme=radical&hide_border=true"/>
 
-      </td>
-    </tr>  
   </table>
 </center>
 
