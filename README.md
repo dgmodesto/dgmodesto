@@ -15,25 +15,9 @@ No tempo livre gosto de estudar, ouvir musicas(🎵), dançar, ler livros(📚),
  
 ### Github Stats 
 <center>
-  <table >
-    <tr>
-      <td>
-       <img height="150em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgmodesto&theme=highcontrast"/> 
-      </td>
-      <td>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dgmodesto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false&hide_border=true"/>
-      </td>     
-    </tr>  
-   <tr>
-     <td>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmodesto&layout=compact&langs_count=7&theme=highcontrast&hide_border=true"/>
-      </td>
-     
-      <td>
-        <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgmodesto&theme=highcontrast&hide_border=true"/>
-      </td>
-   </tr>
-  </table>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgmodesto&theme=radical"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dgmodesto&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmodesto&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgmodesto&theme=radical&hide_border=true"/>
+
 </center>
 
 
