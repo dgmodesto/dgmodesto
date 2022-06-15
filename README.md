@@ -14,7 +14,7 @@ No tempo livre gosto de estudar, ouvir musicas(🎵), dançar, ler livros(📚),
  
  
 ### Github Stats 
-<center>
+<div align="center">
 
   <table >
     <tr>
@@ -30,7 +30,7 @@ No tempo livre gosto de estudar, ouvir musicas(🎵), dançar, ler livros(📚),
    
 
   </table>
-</center>
+ </div>
 
 
 ###  ⚙️ Some Tool and Tech I use: 
