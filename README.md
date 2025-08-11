@@ -1,15 +1,14 @@
 
-### Olá Galera! 😁👋
+Hello Everyone! 😁👋
+A little about me:
 
-Um pouco sobre mim.
+I hold a Bachelor’s degree in Systems Analysis and Development from FATEC, a Postgraduate degree in Artificial Intelligence and Machine Learning from FIAP, and a Postgraduate degree in Distributed Software Architecture from PUC Minas.
 
-Cursei graduação Tecnológica em Análise e Desenvolvimento de Sistemas pela FATEC, sou Pos Graduado em Inteligência Artificial e Machine Learning pela FIAP e Pos Graduado em Arquitetura de Software Distribuído pela PUC Minas.
+A technology enthusiast, I have strong expertise in backend development with C# and frontend development with Angular.
 
-Amante de tecnologia, possuo domínio na área de backend com a linguagem C# e frontend na linguagem Angular.
+Currently, I work as a Fullstack AI Engineer at Microsoft. I bring 15 years of experience in Computer Science, with a strong focus on software engineering, cloud solutions, and business agility aimed at delivering customer value. I support teams in defining architecture, technical standards, and design patterns to build scalable and innovative solutions.
 
-Atualmente sou Arquiteto de Software e complementa o quadro de colaboradores da empresa Guide Investimentos. Tenho 11 anos de experiência na área de Ciência da Computação, com ênfase em engenharia de software e agilidade de negócio com foco no cliente. Auxilio as squads na definição de padrões e design de projetos.
-
-No tempo livre gosto de estudar, ouvir musicas(🎵), dançar, ler livros(📚), assistir filmes e séries(📺), e também sou apaixonado por cervejas artesanais(🍺).
+In my free time, I enjoy studying, listening to music (🎵), dancing, reading books (📚), watching movies and series (📺), and I’m also passionate about craft beers (🍺).
 
  
  
