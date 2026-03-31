@@ -2,11 +2,19 @@
 Hello Everyone! 😁👋
 A little about me:
 
-I hold a Bachelor’s degree in Systems Analysis and Development from FATEC, a Postgraduate degree in Artificial Intelligence and Machine Learning from FIAP, and a Postgraduate degree in Distributed Software Architecture from PUC Minas.
+I`m a Senior Software Engineer at Microsoft focused on building scalable cloud platforms and AI-driven solutions.
 
-A technology enthusiast, I have strong expertise in backend development with C# and frontend development with Angular.
+I specialize in C#, Python, distributed systems, and cloud architecture, designing modern applications and intelligent systems on Azure. My work often involves integrating AI agents, APIs, and cloud-native services to deliver reliable and production-grade platforms.
 
-Currently, I work as a Fullstack AI Engineer at Microsoft. I bring 15 years of experience in Computer Science, with a strong focus on software engineering, cloud solutions, and business agility aimed at delivering customer value. I support teams in defining architecture, technical standards, and design patterns to build scalable and innovative solutions.
+🔧 Core areas of interest:
+
+🤖 AI Agents & autonomous workflows
+☁️ Cloud-native architectures (Azure)
+🔌 Backend engineering & API design
+🧠 Applied AI for real-world automation
+🏗️ System architecture & scalable platforms
+
+I enjoy turning complex ideas into well-designed, maintainable, and scalable systems.
 
 In my free time, I enjoy studying, listening to music (🎵), dancing, reading books (📚), watching movies and series (📺), and I’m also passionate about craft beers (🍺).
 
