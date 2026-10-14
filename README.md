@@ -1,74 +1,47 @@
+# Douglas Modesto — AI Software Architect
 
-Hello Everyone! 😁👋
-A little about me:
+> Projeto arquiteturas de IA e plataformas cloud-native que saem do protótipo e chegam à produção: confiáveis, observáveis e com custo sob controle.
 
-I`m a Senior Software Engineer at Microsoft focused on building scalable cloud platforms and AI-driven solutions.
+**Senior Software Engineer @ Microsoft** · Azure · Agentic Systems · Distributed Platforms · C# / Python
 
-I specialize in C#, Python, distributed systems, and cloud architecture, designing modern applications and intelligent systems on Azure. My work often involves integrating AI agents, APIs, and cloud-native services to deliver reliable and production-grade platforms.
+---
 
-🔧 Core areas of interest:
+## 🎯 Foco
 
-🤖 AI Agents & autonomous workflows
-☁️ Cloud-native architectures (Azure)
-🔌 Backend engineering & API design
-🧠 Applied AI for real-world automation
-🏗️ System architecture & scalable platforms
+| Área | O que faço |
+|---|---|
+| 🤖 **Arquitetura de IA** | Sistemas multi-agente, RAG, fine-tuning, avaliação e guardrails |
+| ☁️ **Cloud-native (Azure)** | Azure OpenAI, containers, mensageria, IaC, observabilidade |
+| 🏗️ **Sistemas distribuídos** | CQRS, Event Sourcing, Kafka, microsserviços, APIs |
+| 📐 **Decisões arquiteturais** | ADRs, diagramas C4, trade-offs de custo/latência/qualidade |
 
-I enjoy turning complex ideas into well-designed, maintainable, and scalable systems.
+## 🚀 Projetos em destaque
 
-In my free time, I enjoy studying, listening to music (🎵), dancing, reading books (📚), watching movies and series (📺), and I’m also passionate about craft beers (🍺).
+- **[career-advisor-multi-agent](https://github.com/dgmodesto/career-advisor-multi-agent)** — Sistema multi-agente (LangChain + GPT) que recomenda carreiras a partir de habilidades e perfil.
+- **[ai-find-job-flow](https://github.com/dgmodesto/ai-find-job-flow)** — Agentes que coletam vagas, analisam empresas e geram preparação para entrevistas.
+- **[chat-rag-azure-openai](https://github.com/dgmodesto/chat-rag-azure-openai)** — Chatbot RAG com LangChain, FAISS e Azure OpenAI.
+- **[llm-search-openai-sample](https://github.com/dgmodesto/llm-search-openai-sample)** — Geração de SQL a partir de linguagem natural.
+- **[sales-product-cqrs-event-sourcing-with-kafka](https://github.com/dgmodesto/sales-product-cqrs-event-sourcing-with-kafka)** — Laboratório de CQRS e Event Sourcing com Kafka.
+- **[EShopMicroservices](https://github.com/dgmodesto/EShopMicroservices)** — Microsserviços em .NET.
 
- 
- 
-### Github Stats 
-<div align="center">
+## 🧭 Princípios que sigo
 
-  <table >
-    <tr>
-      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=dgmodesto&theme=radical&hide_border=true"/>
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgmodesto&theme=radical"/>
-    </tr>  
-   <tr>
-      <td>
-         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dgmodesto&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/>
-         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmodesto&layout=compact&langs_count=7&theme=radical&hide_border=true"/> 
-      </td>
-   </tr>
-   
+1. **Comece pelo problema**, não pelo modelo.
+2. **Avalie antes de escalar**: métricas de qualidade, custo e latência desde o dia 1.
+3. **Registre decisões** (ADRs) e seus trade-offs.
+4. **Observabilidade e segurança** são requisitos de arquitetura, não extras.
+5. **Simples e evolutivo** vence sofisticado e frágil.
 
-  </table>
- </div>
+## 🛠️ Stack
 
+**IA:** Azure OpenAI · LangChain · RAG · FAISS · Ollama · Agents
+**Backend:** C# / .NET · Python · Node.js · REST APIs
+**Dados & mensageria:** SQL Server · Redis · Kafka · RabbitMQ
+**Cloud & DevOps:** Azure · AWS · Docker · GitHub Actions
 
-###  ⚙️ Some Tool and Tech I use: 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+## 📫 Contato
 
-Would you like to find me?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglasmodesto/)
+[![Blog](https://img.shields.io/badge/-Blog-222?style=flat-square&logo=github&logoColor=white)](https://dgmodesto.github.io)
 
-
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/douglasmodesto/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasmodesto" /></a>
-
-</p>  
+<sub>📍 Itanhaém, SP · 🍺 craft beers, 🎵 música e 📚 livros fora do código.</sub>
